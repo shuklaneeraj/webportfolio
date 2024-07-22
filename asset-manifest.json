@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/webportfolio/static/css/main.73db9e44.css",
+    "main.js": "/webportfolio/static/js/main.48f66987.js",
+    "static/css/64.bba8fa55.chunk.css": "/webportfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.b91f959d.chunk.js": "/webportfolio/static/js/64.b91f959d.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/webportfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.b881d644.chunk.js": "/webportfolio/static/js/769.b881d644.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/webportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/webportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Infinite_logo.jpg": "/webportfolio/static/media/Infinite_logo.85b82d6dba1807c65eaa.jpg",
+    "static/media/nrc_logo.png": "/webportfolio/static/media/nrc_logo.2c46c76e5eb92d3722bb.png",
+    "static/media/pd1.png": "/webportfolio/static/media/pd1.d3b51bd2bddc5973c35c.png",
+    "static/media/awsarchitect_logo.png": "/webportfolio/static/media/awsarchitect_logo.5de5ac5041c48c198d8b.png",
+    "static/media/DXC_logo.png": "/webportfolio/static/media/DXC_logo.af67425c3ca1df297e25.png",
+    "static/media/manOnTable.svg": "/webportfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/powerbi_logo.png": "/webportfolio/static/media/powerbi_logo.d61b8a422f55a29ba8b4.png",
+    "static/media/contactMailDark.svg": "/webportfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/webportfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/champaward.webp": "/webportfolio/static/media/champaward.e775879dc610d0819633.webp",
+    "static/media/ecoinfoundationofficial_logo.jpg": "/webportfolio/static/media/ecoinfoundationofficial_logo.6b8c46c2ade4a3345da1.jpg",
+    "static/media/courseraDA.webp": "/webportfolio/static/media/courseraDA.6850eea46b4a4947e409.webp",
+    "static/media/Tit_logo.jpg": "/webportfolio/static/media/Tit_logo.fc3ddfd3c292354e68a6.jpg",
+    "static/media/skill.svg": "/webportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/aws.webp": "/webportfolio/static/media/aws.a64e109d572a634102c0.webp",
+    "index.html": "/webportfolio/index.html",
+    "static/media/talksCardBack.svg": "/webportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.73db9e44.css.map": "/webportfolio/static/css/main.73db9e44.css.map",
+    "main.48f66987.js.map": "/webportfolio/static/js/main.48f66987.js.map",
+    "64.bba8fa55.chunk.css.map": "/webportfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.b91f959d.chunk.js.map": "/webportfolio/static/js/64.b91f959d.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/webportfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.b881d644.chunk.js.map": "/webportfolio/static/js/769.b881d644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73db9e44.css",
+    "static/js/main.48f66987.js"
+  ]
+}
