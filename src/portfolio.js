@@ -96,14 +96,14 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Memorial University of Newfoundland, Canada",
-      logo:  require("./assets/images/mun_logo.png"),
+      logo: require("./assets/images/mun_logo.png"),
       subHeader: "Master of Science, Computer Science",
       duration: "Sept 2022 - Jul 2024",
       desc: "GPA: 3.82 / 4.0"
     },
     {
       schoolName: "Technocrats Institute of Technology Excellence, India",
-      logo:require("./assets/images/Tit_logo.jpg"),
+      logo: require("./assets/images/Tit_logo.jpg"),
       subHeader: "Bachelor of Engineering, Computer Science & Engineering",
       duration: "Aug 2016 - Jul 2020",
       desc: "GPA: 3.30 / 4.0"
@@ -143,7 +143,6 @@ const techStack = {
 const workExperiences = {
   display: true,
   experience: [
-    
     {
       role: "Graduate Research Assistant",
       company: "Memorial University of Newfoundland",
@@ -158,7 +157,7 @@ const workExperiences = {
       date: "May 2023 – Present",
       desc: "Handling financial and survey data, conducting analysis, creating dashboards, and developing presentations for effective data visualization and communication."
     },
-    
+
     {
       role: "Software Developer",
       company: "Infinite Computer Solutions",
@@ -192,8 +191,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image:
-      require("./assets/images/ecoinfoundationofficial_logo.jpg"),
+      image: require("./assets/images/ecoinfoundationofficial_logo.jpg"),
       projectName: "Ecoin Official",
       projectDesc: "Description of your work at Ecoin Official.",
       footerLink: [
@@ -204,8 +202,7 @@ const bigProjects = {
       ]
     },
     {
-      image:
-      require("./assets/images/hf_logo.jpg"),
+      image: require("./assets/images/hf_logo.jpg"),
       projectName: "HelloFans",
       projectDesc: "Description of your work at HelloFans.",
       footerLink: [
@@ -288,7 +285,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: require("./assets/images/aws.webp"),
+          url: require("./assets/images/aws.webp")
         },
         {
           name: "Certification Details",
