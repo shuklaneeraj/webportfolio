@@ -45,45 +45,87 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "Tech Enthusiast",
+  title: "Professional Expertise",
   subTitle:
-    "I AM PASSIONATE ABOUT DATA ANALYSIS, DATA SCIENCE, AND BLOCKCHAIN TECHNOLOGIES",
+    "Focused on integrating data science, advanced software development practices, and scalable cloud solutions to solve complex challenges and deliver innovative results.",
   skills: [
     emoji(
-      "⚡ Perform Data Analysis and Visualization to derive meaningful insights"
-    ),
-    emoji("⚡ Implement Machine Learning algorithms for predictive analytics"),
-    emoji(
-      "⚡ Develop Blockchain solutions and Smart Contracts for secure transactions"
+      "⚡ Utilize Python, SQL, and Power BI for comprehensive Data Analysis and Visualization. Develop and implement Machine Learning algorithms to derive actionable insights and predictive analytics."
     ),
     emoji(
-      "⚡ Create interactive Front-end and User Interfaces for applications"
+      "⚡ Leverage Apex and Salesforce to create and customize applications. Apply Automation Testing strategies to ensure software quality and reliability."
     ),
     emoji(
-      "⚡ Build Progressive Web Applications (PWA) using various tech stacks"
+      "⚡ Manage and optimize cloud resources with AWS. Design and deploy Blockchain solutions and Smart Contracts for secure and transparent transactions."
+    ),
+    emoji(
+      "⚡ Conduct in-depth research and manage data science projects with a focus on achieving impactful results. Lead and coordinate cross-functional teams to deliver complex solutions."
+    ),
+    emoji(
+      "⚡ Build dynamic and interactive web applications using React and MERN stack technologies. Develop Progressive Web Applications (PWA) and design engaging user interfaces."
     )
   ],
 
   softwareSkills: [
     {
-      skillName: "data-analysis",
-      fontAwesomeClassname: "fas fa-chart-bar"
+      skillName: "Data Analysis",
+      fontAwesomeClassname: "fas fa-chart-bar",
+      rating: 5, // Example rating out of 5
+      description: "Expert in data analysis using Python, SQL, and Power BI for actionable insights."
     },
     {
-      skillName: "data-science",
-      fontAwesomeClassname: "fas fa-flask"
+      skillName: "Data Science",
+      fontAwesomeClassname: "fas fa-flask",
+      rating: 4,
+      description: "Skilled in applying statistical techniques and machine learning for data-driven decision-making."
     },
     {
-      skillName: "machine-learning",
-      fontAwesomeClassname: "fas fa-brain"
+      skillName: "Machine Learning",
+      fontAwesomeClassname: "fas fa-brain",
+      rating: 4,
+      description: "Proficient in developing machine learning models with tools like Scikit-Learn and TensorFlow."
     },
     {
-      skillName: "blockchain",
-      fontAwesomeClassname: "fas fa-cube"
+      skillName: "Blockchain Technology",
+      fontAwesomeClassname: "fas fa-cube",
+      rating: 3,
+      description: "Experience in creating blockchain solutions and smart contracts for secure transactions."
     },
     {
-      skillName: "web-development",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Web Development",
+      fontAwesomeClassname: "fab fa-html5",
+      rating: 4,
+      description: "Experienced in building web applications using React, MERN stack, HTML, and CSS."
+    },
+    {
+      skillName: "Salesforce Development",
+      fontAwesomeClassname: "fab fa-salesforce",
+      rating: 4,
+      description: "Proficient in customizing and developing applications on Salesforce using Apex."
+    },
+    {
+      skillName: "Automation Testing",
+      fontAwesomeClassname: "fas fa-robot",
+      rating: 4,
+      description: "Skilled in implementing automation testing strategies to ensure software quality and reliability."
+    },
+    {
+      skillName: "Cloud Computing",
+      fontAwesomeClassname: "fas fa-cloud",
+      rating: 4,
+      description: "Experienced in managing and optimizing cloud services with AWS."
+    },
+    {
+      skillName: "Database Management",
+      fontAwesomeClassname: "fas fa-database",
+      rating: 4,
+      description: "Experienced in database management with PostgreSQL and SQL."
+    },
+    {
+      skillName: "Project Management",
+      fontAwesomeClassname: "fas fa-tasks",
+      rating: 3,
+      description: "Proficient in managing projects with a focus on delivering complex solutions and coordinating teams."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -118,20 +160,28 @@ const techStack = {
   viewSkillBars: true, // Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Business Analytics",
-      progressPercentage: "90%" // Insert relative proficiency in percentage
+      Stack: "Data Analysis & Visualization",
+      progressPercentage: "95%" // Insert relative proficiency in percentage
     },
     {
-      Stack: "Web Development",
+      Stack: "CRM & Salesforce Implementation",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Machine Learning & AI",
       progressPercentage: "85%"
     },
     {
-      Stack: "Cloud Implementation",
+      Stack: "Automation Testing",
       progressPercentage: "80%"
     },
     {
-      Stack: "CRM Implementation",
-      progressPercentage: "75%"
+      Stack: "Cloud Computing & AWS",
+      progressPercentage: "85%"
+    },
+    {
+      Stack: "Blockchain & Smart Contracts",
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section; need to change your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
