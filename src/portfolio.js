@@ -334,6 +334,12 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
+      url: "https://medium.com/@shuklaneeraj1999/the-future-of-maritime-training-harnessing-the-power-of-synthetic-data-8b0e946fb6ae",
+      title: "The Future of Maritime Training: Harnessing the Power of Synthetic Data",
+      description:
+        "Exploring synthetic data generation's role in enhancing maritime training, particularly for ice navigation and ice management operations."
+    },
+    {
       url: "https://medium.com/@neerajshuklasmailbox/comparative-insights-european-unions-ai-act-and-canada-s-artificial-intelligence-and-data-act-5ec1cfbd9e7f",
       title: "AU-EU AI Act and Canada’s AI and Data Act",
       description:
