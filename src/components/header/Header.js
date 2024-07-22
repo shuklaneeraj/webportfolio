@@ -73,7 +73,7 @@ function Header() {
           )}
           {viewResume && (
             <li>
-              <a href="#resume">Resume</a>
+              <a href="https://www.canva.com/design/DAGLIBQDirQ/UCBAl8DYc0HxIkukmDua7g/view?utm_content=DAGLIBQDirQ&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a>
             </li>
           )}
           <li>

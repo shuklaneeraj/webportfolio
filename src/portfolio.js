@@ -26,7 +26,7 @@ const greeting = {
     "A tech enthusiast, software engineer, and data analyst by profession 🚀. I specialize in data-driven solutions, crafting strategies for your business growth 📈 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://www.canva.com/design/DAGLIBQDirQ/UCBAl8DYc0HxIkukmDua7g/view?utm_content=DAGLIBQDirQ&utm_campaign=designshare&utm_medium=link&utm_source=editor", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -193,7 +193,7 @@ const bigProjects = {
     {
       image: require("./assets/images/ecoinfoundationofficial_logo.jpg"),
       projectName: "Ecoin Official",
-      projectDesc: "Description of your work at Ecoin Official.",
+      projectDesc: "At Ecoin, a dynamic crypto startup, I played a pivotal role as a Software Developer. My primary responsibilities included managing and enhancing the web application, architecting key features, and overseeing AWS services. I was instrumental in designing and implementing scalable solutions to support Ecoin's rapid growth and evolving needs.",
       footerLink: [
         {
           name: "Visit Website",
@@ -204,7 +204,7 @@ const bigProjects = {
     {
       image: require("./assets/images/hf_logo.jpg"),
       projectName: "HelloFans",
-      projectDesc: "Description of your work at HelloFans.",
+      projectDesc: "At HelloFans, I contributed significantly as a Software Developer in a startup environment. My role involved developing and maintaining a MERN stack application, integrating various components to create a seamless user experience. Additionally, I was responsible for smart contract development, ensuring secure and efficient transactions within the platform. My work included both frontend and backend development, leveraging React for dynamic interfaces and Node.js for robust server-side operations.",
       footerLink: [
         {
           name: "Visit Website",
