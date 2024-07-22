@@ -263,7 +263,7 @@ const achievementSection = {
       title: "Salesforce Platform Developer I",
       subtitle:
         "Certification for mastering the skills required to develop custom applications on the Salesforce platform.",
-      image: require("./assets/images/pd1.jpg"), // Local path in the assets/images directory
+      image: require("./assets/images/pd1.png"), // Local path in the assets/images directory
       imageAlt: "Salesforce Logo",
       footerLink: [
         {
