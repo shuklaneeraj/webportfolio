@@ -197,14 +197,14 @@ const workExperiences = {
       role: "Graduate Research Assistant",
       company: "Memorial University of Newfoundland",
       companylogo: require("./assets/images/mun_logo.png"),
-      date: "May 2023 – Present",
+      date: "May 2024 – Aug 2024",
       desc: "Led the synthetic data generation project using Synthetic Data Vault (SDV) for maritime applications, contributing to advanced data analysis and simulation capabilities."
     },
     {
       role: "Data Analyst",
       company: "National Research Council of Canada",
       companylogo: require("./assets/images/nrc_logo.png"),
-      date: "May 2023 – Present",
+      date: "Sept 2023 – Apr 2024",
       desc: "Handling financial and survey data, conducting analysis, creating dashboards, and developing presentations for effective data visualization and communication."
     },
 
